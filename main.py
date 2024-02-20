@@ -16,7 +16,6 @@ def main(groups: list[str]):
 
 
 main([
-    "datatest201",
     "ru2chnews",
     "comentlentach",
     "poputka_kg",
